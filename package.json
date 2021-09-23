@@ -1,18 +1,18 @@
 {
-  "name": "react-publishable-component",
-  "version": "1.0.9",
+  "name": "pz-react-component",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
     "start": "webpack --watch",
     "build": "webpack",
     "prepublish": "npm run build"
-    },
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/psharneja/react-publishable-component"
+    "url": "https://github.com/sanskarsakya/npm-publish"
   },
-  "author": "Prabhsimran Singh <psharneja@gmail.com> (http://psharneja.github.io/)",
+  "author": "puzan sakya <puzansakya@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "react": "^16.13.1"
